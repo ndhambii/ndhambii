@@ -1,4 +1,4 @@
-## Hello, world 👋
+## Hello, world :)
 
 💬 My name is **Ndhambi Osvaldo T. Zitha** and I'm a ✨junior✨ developer from Mozambique who loves creating web and mobile apps.
 ## Tech Stack 🚀

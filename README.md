@@ -1,9 +1,8 @@
 ## Hello, world 👋
 
 💬 My name is **Ndhambi Osvaldo T. Zitha** and I'm a ✨junior✨ developer who loves creating web and mobile apps.
-
+<h1>Tech Stack</h1>
 <p align="center">
-  <h1>Tech Stack</h1>
   <!-- Core Skills -->
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" />

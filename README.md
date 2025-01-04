@@ -16,6 +16,5 @@
 </p>
 
 ## Github Stats⚡
-<p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ndhambii&show_icons=true&theme=radical)
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ndhambii&show_icons=true&theme=radical)
+

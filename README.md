@@ -2,8 +2,8 @@
 
 💬 My name is **Ndhambi Osvaldo T. Zitha** and I'm a ✨junior✨ developer who loves creating web and mobile apps.
 
-### Tech Stack
 <p align="center">
+  ### Tech Stack
   <!-- Core Skills -->
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" />
@@ -15,3 +15,6 @@
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" />
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" />
 </p>
+
+### Github Stats ⚡
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)

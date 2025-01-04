@@ -16,7 +16,14 @@
 </p>
 
 ## Github Stats ⚡
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ndhambii&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
 

@@ -1,4 +1,4 @@
-<h1>Hello, world</h1> 👋
+### Hello, world 👋
 
 💬 My name is **Ndhambi Osvaldo T. Zitha** and I'm a ✨junior✨ developer who loves creating web and mobile apps.
 <h1>Tech Stack</h1>
@@ -15,5 +15,5 @@
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" />
 </p>
 
-<h1>Github Stats</h1> ⚡
+## Github Stats⚡
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)

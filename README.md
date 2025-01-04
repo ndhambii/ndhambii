@@ -22,7 +22,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Ndhambii&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Most Used Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndhambii&layout=compact&theme=radical" alt="Most Used Languages" />
     </td>
   </tr>
 </table>

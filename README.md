@@ -1,6 +1,8 @@
 ## Hello, world :)
 
-💬 My name is **Ndhambi Osvaldo T. Zitha** and I'm a ✨junior✨ developer from Mozambique who loves creating web and mobile apps.
+💬 My name is **Ndhambi Osvaldo T. Zitha** and I'm a ✨junior✨ developer from Mozambique who loves creating web apps.
+🌱 Currently learning REACT for frontend development.
+
 ## Tech Stack 🚀
 <p align="center">
   <!-- Core Skills -->

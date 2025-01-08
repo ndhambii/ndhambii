@@ -25,6 +25,11 @@
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndhambii&layout=compact&theme=radical&cache_seconds=1800" alt="Most Used Languages" />
+      <div align='center'>
+   <a href="https://www.linkedin.com/in/ndhambii/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href = "mailto:osvaldondhambi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   
+</div>
+
     </td>
   </tr>
 </table>

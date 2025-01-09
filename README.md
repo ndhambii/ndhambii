@@ -19,7 +19,7 @@
 
 ## Github Stats ⚡
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=ndhambii&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />

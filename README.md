@@ -18,8 +18,8 @@
 </p>
 
 ## Github Stats ⚡
-<center>
-<table>
+
+<table align="center">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=ndhambii&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
@@ -31,7 +31,7 @@
     </td>
   </tr>
 </table>
-</center>
+
 
 <div align='center'>
    <a href="https://www.linkedin.com/in/ndhambii/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  

@@ -26,7 +26,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndhambii&layout=compact&theme=radical&cache_seconds=1800" alt="Most Used Languages" />
     </td>
   </tr>

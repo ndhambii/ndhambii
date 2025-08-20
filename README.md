@@ -1,6 +1,6 @@
 ## Hello, world :)
 
-💬 My name is **Ndhambi Osvaldo T. Zitha** and I'm a developer from Mozambique who loves saving the day using lines of code. <br/>
+💬 My name is **Ndhambi Osvaldo T. Zitha** and I'm a developer from Mozambique who loves saving the day using lines of code 🥷🏽. <br/>
 
 ## Tech Stack 🚀
 <p align="center">

@@ -8,6 +8,7 @@
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" />
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" />
+    <img src="https://skillicons.dev/icons?i=typescript" alt="JavaScript" width="50" />
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" />
   <img src="https://skillicons.dev/icons?i=next" alt="React" width="50" />
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" />

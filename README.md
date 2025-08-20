@@ -4,6 +4,7 @@
 
 ## Tech Stack 🚀
 <p align="center">
+  # Frontend:
   <!-- Core Skills -->
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" />

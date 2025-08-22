@@ -2,7 +2,7 @@
 
 💬 My name is **Ndhambi Osvaldo T. Zitha** and I'm a developer from Mozambique who loves saving the day using lines of code 🥷🏽. <br/>
 
-## Frontend 🚀
+## Frontend 🎨
 <p align="center">
   <!-- Core Skills -->
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" />
@@ -14,7 +14,7 @@
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" />
 </p>
 
-## Backend 🚀
+## Backend 🛠️
 <p align="center">
   <!-- Core Skills -->
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" />

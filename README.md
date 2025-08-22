@@ -1,6 +1,6 @@
 ## Hello, world :)
 
-💬 I'm **Ndhambi**, The Hero Dev who loves saving the day using lines of code 🥷🏽. <br/>
+💬 I'm **Ndhambi**, The Hero Dev who saves the day using lines of code 🥷🏽. <br/>
 
 ## Frontend 🎨
 <p align="center">

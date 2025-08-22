@@ -19,6 +19,7 @@
   <!-- Core Skills -->
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" />
   <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="50" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" />
 </p>
 
 ## Github Stats ⚡

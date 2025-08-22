@@ -1,6 +1,6 @@
 ## Hello, world :)
 
-💬 My name is **Ndhambi Osvaldo T. Zitha** and I'm a developer from Mozambique who loves saving the day using lines of code 🥷🏽. <br/>
+💬 I'm **Ndhambi**, The Hero Dev who loves saving the day using lines of code 🥷🏽. <br/>
 
 ## Frontend 🎨
 <p align="center">
